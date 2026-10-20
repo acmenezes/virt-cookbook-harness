@@ -1,0 +1,7 @@
+---
+description: Shared OCP Virtualization Cookbook rules
+alwaysApply: true
+---
+
+Read `AGENTS.md` at the project root before working. It is the shared source of
+project rules for all tools. Follow the relevant installed skill for the task.
